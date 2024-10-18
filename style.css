@@ -1,0 +1,238 @@
+
+body{
+  margin:0px;
+  padding:0px;
+}
+
+
+  .home1{
+    
+    height: 100vh;
+    background-image: url(home1.png);
+    background-position: center;
+    background-size: cover;
+    
+
+  }
+
+  
+  header{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  nav ul{
+    display: flex;
+    justify-content: space-between;
+
+  }
+   ul li{
+    list-style: none;
+    width: 110px;
+  }
+  button{
+    margin-right: 20px;
+    margin-top: 20px;
+    height: 20px;
+    width: 80px;
+    background-color: rgb(31, 20, 123);
+    color: rgba(255, 255, 255, 0.951);
+  }
+  .content1{
+  margin-top: 20%;
+  margin-left: 15%
+  }
+
+  .home2{
+    height: 100vh;
+    background-image: url(home2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+  .content2{
+    display:flex;
+    display:inline-flex;
+    flex-flow: column;
+    margin-top: 18%;
+    margin-left: 15%;
+    
+  }
+  .subcontent{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .home3{
+    height: 100vh;
+    background-image: url(home3.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat; 
+    }
+    .content3{
+      margin-top: 25%;
+      margin-left: 65%;
+    }
+    .home4{
+      
+      height: 100vh;
+      background-image: url(home4.png);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+
+    }
+    .content4{
+      margin-top: 18%;
+      margin-left: 60%;
+    }
+    .home5{
+      
+      height: 70vh;
+      background-image: url(home5.png);
+    }
+    .footer.foter{
+      height: 30vh;
+      background-image: url(footerhome.png);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size:cover ;
+    }
+    /*.homeimage1{
+      margin-left: 63%;
+      background-repeat: no-repeat;
+    }
+    .h1{
+      color: rgb(218, 95, 34);
+    }*/
+    .about1{
+      height: 100vh;
+    }
+    .about1{
+      display: flex;
+      justify-content: space-between;
+
+    }
+    .homeimage1{
+      size: 10%
+    }
+    .aboutimage1{
+      margin-right: 8%;
+      margin-top: 7%;
+    }
+    .contentabout1{
+      margin-top: 7%;
+      margin-left: 8%;
+    }
+    .landingabout{
+      color: rgb(0, 0, 130);
+      margin-right: 15%;
+      margin-top:2.5% ;
+    }
+    .minicontentabout{
+      display: flex;
+      justify-content: space-between;
+    }
+    .about2{
+      
+      height: 70vh;
+      background-color: rgb(240, 240, 251);
+    }
+    .about2content{
+      margin-top: 12%;
+      margin-left: 20%;
+    }
+    .about2{
+      display: flex;
+    }
+    .about2image{
+      margin-top: 7%;
+      margin-left: 14%;
+    }
+ 
+    .about3{
+      display: flex;
+      height: 100vh;
+    }
+    
+    .mini1-about3-content1{
+      display: flex;
+      justify-content: space-between;
+    }
+    .mini2-about3-content1{
+      display: flex;
+      justify-content: space-between;
+    }
+ .about3-content{
+  margin-top: 170px;
+  margin-left: 230px;
+ }
+ .about4{
+  background-color: rgb(228, 242, 242);
+  height: 70vh;
+ }
+ .about4{
+  display: flex;
+  justify-content: space-between;
+ }
+ .about4content{
+  margin-right: 210px;
+  margin-top: 185px;
+ }
+ .dernieraboutimage{
+  margin-top: 130px;
+  margin-left: 210px;
+ }
+ .produitcontent{
+  height: 100vh;
+  background-color: beige;
+ }
+ .footer{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid black;
+ }
+ .produutfils1{
+  display: flex;
+ }
+ .produit1{
+  background-color: aliceblue;
+ }
+ .produitimage{
+  margin-left: 200px;
+  margin-top: 100px;
+ }
+ .contentfils{
+  margin-top: 120px;
+  margin-left: 200px;
+ }
+ .imagecontact{
+  height: 50vh;
+  margin-left: 170px;
+ }
+ .produitul h1{
+  margin-top: 50px;
+  margin-right: 360px;
+ }
+ .home1 h1{
+  margin-top: 50px;
+  margin-right: 360px;
+ }
+ .produit1 h1{
+  margin-top: 50px;
+  margin-right: 360px;
+ }
+ .contacteznous{
+  height: 75vh;
+  margin-left: 32%;
+ }
+ .contacteznous h1 {
+  margin-left: 10%;
+ }
+ .lien{
+  margin-top: -30%;
+  margin-left: 43.5%;
+
+ }
